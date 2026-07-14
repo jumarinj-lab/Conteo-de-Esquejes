@@ -1,7 +1,5 @@
 # Conteo de Esquejes con Vision Artificial
 
-Repositorio para el desarrollo, validacion y prueba de modelos de vision artificial orientados al conteo de esquejes en camas de cultivo.
-
 El proyecto incluye datasets, videos de validacion, modelos entrenados, exportaciones a OpenVINO y scripts de inferencia para diferentes cultivos.
 
 ## Contenido del repositorio
